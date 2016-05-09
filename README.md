@@ -1,4 +1,4 @@
-**Bot**Ctrl**
+\*\*Bot\*\*Ctrl**
 
 This app sends one byte commands via Bluetooth.
 
